@@ -1,4 +1,6 @@
-﻿# simple-npgsql-sample
+﻿# simple-npgsql-test
+### Purpose 
+* To test AgensGraph using npgsql driver.
 
 ### How To do a setup for the test
 
